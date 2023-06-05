@@ -3,11 +3,14 @@
 Repository of solutions to leetcode problems.
 
 Solutions Currently Listed:
-  Easy
+  Easy:
+    
     -Two Sum
     
-  Medium
+  Medium:
+    
     -Find Median Sorted Arrays
     
-  Hard
+  Hard:
+    
     -Length of Longest Substring
