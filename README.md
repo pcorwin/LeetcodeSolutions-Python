@@ -3,6 +3,7 @@
 Repository of solutions to leetcode problems.
 
 Solutions Currently Listed:
+
   Easy:
     
     -Two Sum
