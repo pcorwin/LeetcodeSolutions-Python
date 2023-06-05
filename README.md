@@ -1,7 +1,5 @@
 # LeetcodeSolutions
 
-Solutions Currently Listed:
-
   Easy:
     
     -Two Sum
