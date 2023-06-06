@@ -3,6 +3,7 @@
   Easy:
     
     -Two Sum
+    -Merge Sorted Array
     
   Medium:
     
