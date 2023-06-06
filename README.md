@@ -3,10 +3,12 @@
   Easy:
     
     -Two Sum
+    -Merge Sorted Array
     
   Medium:
     
     -Find Median Sorted Arrays
+    -Reverse Integer
     
   Hard:
     
