@@ -7,6 +7,7 @@
   Medium:
     
     -Find Median Sorted Arrays
+    -Reverse Integer
     
   Hard:
     
