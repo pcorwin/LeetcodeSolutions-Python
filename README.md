@@ -21,6 +21,9 @@
     -Integer to Roman
     -Binary Tree Level Order Traversal
     -Permutations II
+    -Rotate Image
+    -Maximum of Absolute Value Equation
+    -Search 2D Matrix
     
   Hard:
   
