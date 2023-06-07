@@ -11,6 +11,7 @@
     -Merge Sorted Array
     -Longest Common Prefix
     -Roman to Integer
+    -Minimum Depth of Binary Tree
     
   Medium:
     
