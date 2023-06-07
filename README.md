@@ -1,5 +1,8 @@
 # LeetcodeSolutions
-
+  
+  General:
+    -TreeNode Class for use with Binary Tree based problems
+  
   Easy:
     
     -Two Sum
@@ -13,7 +16,7 @@
     -Reverse Integer
     -Permutations
     -Integer to Roman
-    -Binary Tree Level Order Traversal (In Progress)
+    -Binary Tree Level Order Traversal
     
   Hard:
   
