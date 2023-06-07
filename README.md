@@ -4,13 +4,16 @@
     
     -Two Sum
     -Merge Sorted Array
+    -Longest Common Prefix
     
   Medium:
     
-    -Find Median Sorted Arrays
+    -Length of Longest Substring
     -Reverse Integer
+    -Permutations
+    -Binary Tree Level Order Traversal (In Progress)
     
   Hard:
-    
-    -Length of Longest Substring
+  
+    -Find Median Sorted Arrays
     -Regular Expression Matching
