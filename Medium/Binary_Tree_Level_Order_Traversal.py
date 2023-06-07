@@ -6,11 +6,8 @@
 #Constraints:
 #   The number of nodes in the tree is in the range [0, 2000].
 #   -1000 <= Node.val <= 1000
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
+
+import TreeNode
 
 def levelOrder(root):
     def helper(r, l):
@@ -26,11 +23,12 @@ def levelOrder(root):
 
 def main():
     testcases = [
-        TreeNode[3,9,20,None,None,15,7],
-        TreeNode[1],
-        TreeNode[]
+        [3,9,20,None,None,15,7],
+        [1],
+        []
     ]
     for i in testcases:
-        print(f'root = {i}\noutput = {levelOrder(i)}\n')
+        tree = TreeNode.to_binary_tree(i)
+        print(f'root = {i}\noutput = {levelOrder(tree)}\n')
 
 main()
