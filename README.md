@@ -2,7 +2,7 @@
   
   General:
   
-    -TreeNode Class for use with Binary Tree based problems
+    -TreeNode class for use with binary tree based problems
   
   Easy:
     
