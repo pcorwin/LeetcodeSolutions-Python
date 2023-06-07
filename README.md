@@ -1,6 +1,7 @@
 # LeetcodeSolutions
   
   General:
+  
     -TreeNode Class for use with Binary Tree based problems
   
   Easy:
