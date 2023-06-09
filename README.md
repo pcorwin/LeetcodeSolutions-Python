@@ -14,6 +14,7 @@
     -Minimum Depth of Binary Tree
     -Majority Element
     -Find Smallest Letter Greater Than Target
+    -Valid Palindrome
     
   Medium:
     
