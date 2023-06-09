@@ -26,6 +26,7 @@
     -Rotate Image
     -Maximum of Absolute Value Equation
     -Search 2D Matrix
+    -Rotate Array
     
   Hard:
   
