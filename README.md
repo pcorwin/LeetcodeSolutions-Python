@@ -15,6 +15,7 @@
     -Majority Element
     -Find Smallest Letter Greater Than Target
     -Valid Palindrome
+    -Best Time to Buy and Sell Stock
     
   Medium:
     
