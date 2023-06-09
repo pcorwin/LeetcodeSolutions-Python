@@ -12,6 +12,8 @@
     -Longest Common Prefix
     -Roman to Integer
     -Minimum Depth of Binary Tree
+    -Majority Element
+    -Find Smallest Letter Greater Than Target
     
   Medium:
     
