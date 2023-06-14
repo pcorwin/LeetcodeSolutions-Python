@@ -19,6 +19,7 @@
     -Valid Parentheses
     -Fizz Buzz
     -Neither Minimum nor Maximum
+    -Reverse Vowels of a String
     -Insert Delete GetRandom O(1) (In Progress)
     
   Medium:
