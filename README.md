@@ -20,6 +20,7 @@
     -Fizz Buzz
     -Neither Minimum nor Maximum
     -Reverse Vowels of a String
+    -Reverse Bits
     -Insert Delete GetRandom O(1) (In Progress)
     
   Medium:
