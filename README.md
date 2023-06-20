@@ -1,11 +1,11 @@
 # LeetcodeSolutions - Python
   
   
-### General:
+## General
   
     -TreeNode class for use with binary tree based problems
   
-### Easy:
+## Easy
     
     -Two Sum
     -Merge Sorted Array
