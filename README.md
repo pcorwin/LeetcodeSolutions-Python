@@ -38,7 +38,7 @@
     -Best Time to Buy and Sell Stock
     -Multiply Strings
     
-### Hard:
+## Hard
   
     -Find Median Sorted Arrays
     -Regular Expression Matching
