@@ -23,7 +23,7 @@
     -Reverse Bits
     -Insert Delete GetRandom O(1) (In Progress)
     
-### Medium:
+## Medium
     
     -Length of Longest Substring
     -Reverse Integer
