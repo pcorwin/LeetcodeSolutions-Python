@@ -1,11 +1,11 @@
 # LeetcodeSolutions - Python
   
   
-  General:
+### General:
   
     -TreeNode class for use with binary tree based problems
   
-  Easy:
+### Easy:
     
     -Two Sum
     -Merge Sorted Array
@@ -23,7 +23,7 @@
     -Reverse Bits
     -Insert Delete GetRandom O(1) (In Progress)
     
-  Medium:
+### Medium:
     
     -Length of Longest Substring
     -Reverse Integer
@@ -38,7 +38,7 @@
     -Best Time to Buy and Sell Stock
     -Multiply Strings
     
-  Hard:
+### Hard:
   
     -Find Median Sorted Arrays
     -Regular Expression Matching
