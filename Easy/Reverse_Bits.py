@@ -12,21 +12,18 @@
 #Therefore, in Example 2 above, the input represents the signed integer -3 and
 #   the output represents the signed integer -1073741825.
 
-
-def reverseBits(n):
-    result = 0
-    for i in range(32):
-        if n >> i & 1:
-            result |= 1 << 31 - i
-    return result
-
-def main():
-    testcases = [
-        0b00000010100101000001111010011100,
-        0b11111111111111111111111111111101
-    ]
-    for i in testcases:
-        print(f'n = {i}\noutput = {reverseBits(i)}\n')
-
-
-main()
+class Solution:
+    def __init__(self):
+        self.testcases = [0b00000010100101000001111010011100,
+                          0b11111111111111111111111111111101]
+        self.solutions = []
+    def solve(self):
+        for i in self.testcases:
+            self.solutions.append(self.reverseBits(i))
+        return self.solutions
+    def reverseBits(self, n):
+        result = 0
+        for i in range(32):
+            if n >> i & 1:
+                result |= 1 << 31 - i
+        return result
