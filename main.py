@@ -25,6 +25,6 @@ def process_directory(directory, function_name):
 # Replace "directory_path" with the path to your folder containing Python files
 directory_path = "Easy"
 # Replace "your_function_name" with the actual name of the function you want to execute
-function_name = "solve"
+function_name = "run"
 
 process_directory(directory_path, function_name)

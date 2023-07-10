@@ -12,6 +12,8 @@
 #Therefore, in Example 2 above, the input represents the signed integer -3 and
 #   the output represents the signed integer -1073741825.
 
+import time
+
 class Solution:
     def __init__(self):
         self.testcases = [0b00000010100101000001111010011100,
@@ -23,10 +25,19 @@ class Solution:
             if n >> i & 1:
                 result |= 1 << 31 - i
         return result
+    def solve(self):
+        for i in self.testcases:
+            self.solutions.append(self.reverseBits(i))
+    def print(self, t):
+        print("Reverse Bits")
+        for i in range(len(self.testcases)):
+            print(f"\tinput: {self.testcases[i]}\n\toutput: {self.solutions[i]}\n")
+        print(f"\ttime: {t}\n")
 
-def solve():
+def run():
     s = Solution()
-    solutions = []
-    for i in s.testcases:
-        solutions.append(s.reverseBits(i))
-    print(solutions)
+    t0 = time.time()
+    s.solve()
+    t1 = time.time()
+    t = (t1 - t0)
+    s.print(t)
